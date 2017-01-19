@@ -1,1 +1,2 @@
-# ttos0100
+# ttos0100 - Oskari Laulainen
+## Ohjelmistosuunnittelu ja -testaus
